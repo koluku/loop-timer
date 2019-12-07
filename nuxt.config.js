@@ -1,5 +1,8 @@
 export default {
   mode: 'universal',
+  router: {
+    base: '/loop-timer/'
+  },
   /*
    ** Headers of the page
    */
